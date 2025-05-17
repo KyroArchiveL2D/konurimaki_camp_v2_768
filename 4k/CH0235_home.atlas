@@ -1,0 +1,771 @@
+CH0235_home.png
+  size: 4096,4096
+	filter: Linear, Linear
+	scale: 0.5
+Blanket
+  bounds: 1654,1196,448,586
+  offsets: 0,2,448,588
+	rotate: 90
+Bloom
+  bounds: 138,2220,1736,1290
+  offsets: 2,2,1738,1292
+	rotate: 270
+Body
+  bounds: 2828,2596,748,636
+  offsets: 0,2,748,638
+DMB
+  bounds: 2702,812,572,338
+  offsets: 0,2,572,346
+DMB_Light
+  bounds: 3522,346,368,226
+  offsets: 6,4,378,238
+Hand_L_01
+  bounds: 1920,598,488,326
+  offsets: 8,6,498,332
+Hand_L_01_Thumb
+  bounds: 3004,754,254,130
+  offsets: 2,8,256,144
+Hand_R
+  bounds: 238,594,484,380
+  offsets: 0,6,488,390
+Hand_R_Thumb
+  bounds: 2448,1784,182,102
+  offsets: 4,8,192,116
+Idle_Back_Hair
+  bounds: 4,1284,616,638
+  offsets: 0,0,616,640
+	rotate: 90
+Idle_Back_Hair_1
+  bounds: 3786,112,306,186
+  offsets: 8,4,316,196
+Idle_Back_Hair_2
+  bounds: 436,3758,44,198
+  offsets: 6,4,56,206
+Idle_Back_Hair_L
+  bounds: 4,820,268,614
+  offsets: 6,0,278,618
+	rotate: 90
+Idle_Collar_01
+  bounds: 934,304,396,362
+  offsets: 2,4,398,408
+Idle_Collar_02
+  bounds: 3762,2118,302,330
+  offsets: 6,2,310,336
+	rotate: 270
+Idle_Ear
+  bounds: 1072,686,154,244
+  offsets: 6,2,166,252
+Idle_EyeBrow_01_L
+  bounds: 3728,198,266,210
+  offsets: 4,2,270,216
+Idle_EyeBrow_01_R
+  bounds: 1520,118,186,182
+  offsets: 0,4,194,192
+	rotate: 180
+Idle_EyeBrow_02_L
+  bounds: 3470,156,208,202
+  offsets: 8,6,222,212
+Idle_EyeBrow_02_L_Tear
+  bounds: 3178,3904,50,52
+  offsets: 4,8,60,68
+Idle_EyeBrow_02_R
+  bounds: 1262,1434,162,136
+  offsets: 6,6,174,148
+Idle_EyeBrow_03_L
+  bounds: 3022,1422,210,98
+  offsets: 0,50,210,154
+Idle_EyeBrow_03_L_A
+  bounds: 2960,3256,152,160
+  offsets: 0,2,156,170
+Idle_EyeBrow_03_R
+  bounds: 458,2234,118,96
+  offsets: 6,6,126,108
+Idle_EyeBrow_03_R_A
+  bounds: 2212,3812,126,144
+  offsets: 2,2,128,150
+Idle_EyeBrow_04_L
+  bounds: 3304,2108,244,140
+  offsets: 0,0,244,146
+Idle_EyeBrow_04_R
+  bounds: 1534,2136,160,84
+  offsets: 4,8,170,100
+Idle_EyeBrow_05_L
+  bounds: 3578,2832,262,118
+  offsets: 0,6,266,136
+Idle_EyeBrow_05_R
+  bounds: 3176,2382,144,114
+  offsets: 8,0,156,118
+Idle_EyeBrow_06_L
+  bounds: 3286,1224,214,122
+  offsets: 0,4,218,126
+Idle_EyeBrow_06_R
+  bounds: 3204,1684,142,116
+  offsets: 0,2,142,124
+Idle_EyeBrow_06_Tear
+  bounds: 436,3714,38,42
+  offsets: 10,10,58,62
+Idle_EyeBrow_07_L
+  bounds: 380,1578,212,104
+  offsets: 4,4,236,118
+Idle_EyeBrow_07_L_A
+  bounds: 3076,2518,136,130
+  offsets: 12,4,154,138
+Idle_EyeBrow_07_R
+  bounds: 286,3440,126,82
+  offsets: 4,4,134,90
+Idle_EyeBrow_07_R_A
+  bounds: 3982,2792,110,124
+  offsets: 4,4,118,132
+Idle_EyeBrow_08_L
+  bounds: 436,168,246,210
+  offsets: 2,4,248,216
+Idle_EyeBrow_08_R
+  bounds: 2472,172,192,174
+  offsets: 0,2,194,178
+Idle_EyeBrow_09_L
+  bounds: 1268,202,270,214
+  offsets: 2,2,272,218
+Idle_EyeBrow_09_R
+  bounds: 2120,122,192,184
+  offsets: 4,4,198,194
+Idle_EyeCover_01_L
+  bounds: 260,3198,258,252
+  offsets: 0,2,262,258
+Idle_EyeCover_01_R
+  bounds: 3858,1552,234,246
+  offsets: 6,8,246,254
+Idle_Eye_L_01_1
+  bounds: 632,1354,132,168
+  offsets: 6,4,146,176
+Idle_Eye_L_01_2
+  bounds: 2794,3902,84,54
+  offsets: 2,6,90,66
+Idle_Eye_L_01_3
+  bounds: 3430,3902,46,54
+  offsets: 6,8,58,70
+Idle_Eye_L_01_3_1
+  bounds: 2878,3892,50,64
+  offsets: 6,6,62,76
+Idle_Eye_L_01_Light_1
+  bounds: 4038,3910,48,46
+  offsets: 6,8,60,62
+Idle_Eye_L_01_Light_2
+  bounds: 166,3932,24,24
+  offsets: 6,4,38,34
+Idle_Eye_R_01_1
+  bounds: 4,2188,116,152
+  offsets: 4,0,120,158
+Idle_Eye_R_01_2
+  bounds: 3890,3544,54,48
+  offsets: 6,6,60,60
+Idle_Eye_R_01_3
+  bounds: 90,3824,44,52
+  offsets: 4,8,52,64
+Idle_Eye_R_01_3_1
+  bounds: 2198,3714,44,50
+  offsets: 4,6,54,64
+Idle_Eye_R_01_Light_1
+  bounds: 3380,3774,42,52
+  offsets: 4,8,54,64
+Idle_Eye_R_01_Light_2
+  bounds: 72,3934,18,22
+  offsets: 12,8,38,42
+Idle_Flush_01
+  bounds: 1600,1612,642,466
+  offsets: 0,10,642,476
+Idle_Flush_01_1
+  bounds: 2128,230,342,206
+Idle_Flush_02
+  bounds: 2016,1890,696,526
+Idle_Flush_02_1
+  bounds: 4,226,402,258
+	rotate: 180
+Idle_Flush_03
+  bounds: 3604,2830,678,488
+	rotate: 270
+Idle_Flush_03_1
+  bounds: 2966,256,444,252
+Idle_Flush_04
+  bounds: 2618,2028,696,586
+Idle_Flush_04_1
+  bounds: 2934,208,410,260
+	rotate: 180
+Idle_Flush_05
+  bounds: 2568,1524,694,452
+  offsets: 0,4,694,456
+Idle_Flush_05_1
+  bounds: 1564,202,406,256
+	rotate: 180
+Idle_Flush_06
+  bounds: 3254,1348,672,450
+Idle_Flush_06_1
+  bounds: 1492,196,364,220
+Idle_Front_Hair_01
+  bounds: 1564,328,570,310
+  offsets: 0,2,570,316
+Idle_Front_Hair_02
+  bounds: 3424,3570,386,614
+  offsets: 8,6,398,620
+	rotate: 90
+Idle_Front_Hair_02_1
+  bounds: 1712,1492,116,356
+  offsets: 2,2,122,362
+	rotate: 90
+Idle_Front_Hair_02_2
+  bounds: 1706,1032,232,164
+  offsets: 2,6,240,170
+Idle_Front_Hair_03
+  bounds: 1022,410,360,538
+  offsets: 4,4,364,542
+	rotate: 270
+Idle_Front_Hair_04
+  bounds: 3238,1124,374,520
+  offsets: 2,6,376,530
+	rotate: 90
+Idle_Front_Hair_05
+  bounds: 3242,652,342,576
+  offsets: 4,6,350,582
+	rotate: 270
+Idle_Front_Hair_06
+  bounds: 790,1066,346,922
+  offsets: 4,4,352,932
+	rotate: 90
+Idle_Front_Hair_06_1
+  bounds: 3374,922,184,190
+  offsets: 4,2,192,194
+Idle_Front_Hair_07
+  bounds: 4,3238,140,718
+  offsets: 4,0,144,724
+Idle_Front_Hair_07_1
+  bounds: 2960,156,98,374
+  offsets: 6,4,108,402
+	rotate: 90
+Idle_Front_Hair_08
+  bounds: 3894,3656,190,300
+  offsets: 4,4,198,310
+Idle_Front_Hair_09
+  bounds: 4,80,148,472
+  offsets: 6,4,154,482
+	rotate: 90
+Idle_Front_Hair_10
+  bounds: 4,2288,242,482
+  offsets: 4,2,252,484
+	rotate: 90
+Idle_Front_Hair_10_1
+  bounds: 4000,248,92,346
+  offsets: 0,4,98,350
+Idle_Front_Hair_11
+  bounds: 1758,836,640,452
+  offsets: 2,4,648,462
+Idle_Front_Hair_11_1
+  bounds: 1954,156,292,194
+  offsets: 4,6,300,204
+Idle_Front_Hair_11_2
+  bounds: 2798,1064,492,814
+  offsets: 4,4,502,818
+	rotate: 90
+Idle_Front_Hair_11_3
+  bounds: 3306,2126,218,452
+  offsets: 6,0,228,452
+	rotate: 90
+Idle_Front_Hair_11_4
+  bounds: 1392,1422,272,550
+  offsets: 2,6,280,556
+	rotate: 180
+Idle_Front_Hair_11_5
+  bounds: 1938,2380,106,210
+  offsets: 8,6,122,220
+Idle_Front_Hair_12
+  bounds: 3444,850,648,622
+  offsets: 0,4,652,632
+Idle_Hair Shadow_01
+  bounds: 4,3030,66,234
+  offsets: 8,4,82,246
+Idle_Hair Shadow_02
+  bounds: 472,3762,44,194
+  offsets: 6,4,56,200
+Idle_Hair Shadow_03
+  bounds: 94,3584,92,372
+  offsets: 6,6,108,382
+Idle_Hair Shadow_04
+  bounds: 2496,2842,122,332
+  offsets: 6,4,134,336
+	rotate: 90
+Idle_Hair Shadow_05
+  bounds: 1966,3178,134,326
+  offsets: 4,6,144,332
+Idle_Hair_Tail
+  bounds: 342,1928,536,1358
+  offsets: 0,0,536,1360
+	rotate: 90
+Idle_Hair_Tail_Shadow
+  bounds: 96,2992,338,754
+  offsets: 64,10,406,768
+	rotate: 180
+Idle_Head
+  bounds: 2078,2964,892,992
+  offsets: 0,2,894,994
+Idle_Left_Hair_01
+  bounds: 584,1522,276,444
+  offsets: 8,6,290,454
+	rotate: 90
+Idle_Left_Hair_01_1
+  bounds: 2688,2624,182,218
+  offsets: 6,6,194,230
+Idle_Mouth_01
+  bounds: 3500,3580,128,76
+  offsets: 6,6,136,84
+Idle_Mouth_01_A
+  bounds: 3660,1682,158,116
+  offsets: 6,8,168,126
+Idle_Mouth_01_B
+  bounds: 3210,3800,168,156
+  offsets: 0,2,174,158
+Idle_Mouth_02
+  bounds: 3794,3868,150,88
+  offsets: 2,0,154,88
+Idle_Mouth_02_A
+  bounds: 3848,358,210,178
+  offsets: 2,6,216,188
+Idle_Mouth_03
+  bounds: 2714,2906,124,136
+  offsets: 6,6,136,148
+Idle_Mouth_04
+  bounds: 3102,3236,130,76
+  offsets: 4,4,136,84
+Idle_Mouth_04_B
+  bounds: 2658,3828,174,128
+  offsets: 4,0,184,130
+Idle_Mouth_05
+  bounds: 964,2108,156,112
+  offsets: 2,6,160,120
+Idle_Mouth_05_A
+  bounds: 2472,2296,144,90
+  offsets: 4,2,152,94
+Idle_Mouth_06
+  bounds: 2214,3904,46,52
+  offsets: 0,4,48,58
+Idle_Mouth_06_A
+  bounds: 584,3902,46,54
+  offsets: 2,4,50,64
+Idle_Mouth_07
+  bounds: 2834,3862,54,44
+  offsets: 4,8,64,58
+Idle_Mouth_07_A
+  bounds: 258,3936,38,20
+  offsets: 6,4,52,30
+Idle_Neck
+  bounds: 626,534,402,356
+  offsets: 0,2,402,360
+Idle_R_Sidle_Hair_01
+  bounds: 2356,650,410,474
+  offsets: 6,4,418,480
+	rotate: 270
+Idle_R_Sidle_Hair_02
+  bounds: 3092,334,230,388
+  offsets: 6,6,242,400
+	rotate: 90
+Idle_R_Sidle_Hair_02_1
+  bounds: 1548,1490,140,150
+  offsets: 0,6,144,156
+Idle_R_Sidle_Hair_02_2
+  bounds: 2338,3910,106,46
+  offsets: 6,8,120,58
+Idle_R_Sidle_Hair_02_3
+  bounds: 1026,1734,142,206
+  offsets: 6,6,154,216
+Idle_R_Sidle_Hair_02_4
+  bounds: 3548,3018,50,180
+  offsets: 6,6,62,192
+Idle_R_Sidle_Hair_02_5
+  bounds: 244,3062,86,146
+  offsets: 6,6,98,160
+Idle_Sweat_01
+  bounds: 4,3920,26,36
+  offsets: 6,6,40,48
+Idle_T_Eyebrow_01_L
+  bounds: 108,2248,230,76
+  offsets: 2,2,236,82
+Idle_T_Eyebrow_01_R
+  bounds: 3622,3408,112,90
+  offsets: 2,6,120,100
+Idle_T_Eyebrow_02_L
+  bounds: 180,3676,280,50
+  offsets: 4,6,288,60
+	rotate: 90
+Idle_T_Eyebrow_02_R
+  bounds: 1906,2448,106,152
+  offsets: 4,2,112,160
+Idle_T_Eyebrow_03_L
+  bounds: 2580,2672,212,170
+  offsets: 4,4,220,180
+Idle_T_Eyebrow_03_R
+  bounds: 1914,3134,164,46
+  offsets: 4,6,170,56
+Idle_T_Eyebrow_04_L
+  bounds: 524,1894,214,186
+  offsets: 6,6,222,196
+Idle_T_Eyebrow_04_R
+  bounds: 3568,2828,158,44
+  offsets: 6,6,166,54
+Idle_T_Eyebrow_05_L
+  bounds: 1822,1536,268,72
+  offsets: 8,6,276,82
+Idle_T_Eyebrow_05_R
+  bounds: 464,2280,98,120
+  offsets: 4,6,102,132
+Idle_T_Eyebrow_06_L
+  bounds: 270,3706,250,62
+  offsets: 8,6,268,76
+	rotate: 90
+Idle_T_Eyebrow_06_R
+  bounds: 3984,2360,108,120
+  offsets: 0,0,110,120
+Idle_T_Eyebrow_07_L
+  bounds: 1668,2060,262,76
+  offsets: 10,6,276,86
+Idle_T_Eyebrow_07_R
+  bounds: 1902,2102,110,120
+  offsets: 4,2,116,124
+Idle_White_L
+  bounds: 752,308,246,230
+  offsets: 8,0,256,232
+Idle_White_R
+  bounds: 1898,1002,188,194
+  offsets: 6,6,200,208
+Intro Eye_White
+  bounds: 16,2542,118,202
+  offsets: 6,4,134,206
+Intro_Back_Hair
+  bounds: 812,1406,648,566
+Intro_Back_Hair_1
+  bounds: 3398,4,374,548
+  offsets: 8,6,388,558
+	rotate: 90
+Intro_Collar_01
+  bounds: 1918,2370,326,410
+  offsets: 0,0,326,414
+	rotate: 180
+Intro_Collar_02
+  bounds: 3916,2038,176,218
+  offsets: 0,0,176,222
+Intro_Ear
+  bounds: 720,1730,196,332
+  offsets: 0,2,202,336
+	rotate: 90
+Intro_Eye
+  bounds: 3366,3814,64,142
+  offsets: 6,6,78,154
+Intro_Eye_Light
+  bounds: 4,3854,68,102
+  offsets: 4,4,74,110
+Intro_Eyebrow_01
+  bounds: 3908,3514,160,130
+  offsets: 0,10,168,148
+Intro_Eyebrow_02
+  bounds: 1540,1284,150,208
+  offsets: 4,4,160,218
+Intro_Eyebrow_03
+  bounds: 3530,3470,154,148
+  offsets: 2,0,156,148
+Intro_Eyecover_01
+  bounds: 322,3476,140,220
+  offsets: 0,2,146,222
+Intro_Eyecover_02
+  bounds: 4,202,154,242
+  offsets: 6,2,166,250
+	rotate: 90
+Intro_Flush
+  bounds: 4,442,310,282
+	rotate: 180
+Intro_Front_Hair_01
+  bounds: 642,152,398,266
+  offsets: 0,2,398,268
+Intro_Front_Hair_02_A
+  bounds: 1034,2116,114,104
+  offsets: 6,6,126,116
+Intro_Front_Hair_03
+  bounds: 26,1078,462,772
+  offsets: 0,2,468,778
+	rotate: 90
+Intro_Front_Hair_04
+  bounds: 1238,736,302,628
+  offsets: 0,4,306,632
+	rotate: 270
+Intro_Front_Hair_04_A
+  bounds: 2854,156,280,168
+  offsets: 0,8,280,176
+Intro_Front_Hair_04_B
+  bounds: 2628,276,120,388
+  offsets: 0,0,126,388
+	rotate: 90
+Intro_Front_Hair_05
+  bounds: 1724,490,242,734
+  offsets: 2,0,244,734
+	rotate: 270
+Intro_Front_Hair_05_A
+  bounds: 1696,2030,190,316
+  offsets: 6,4,198,320
+	rotate: 90
+Intro_Front_Hair_05_B
+  bounds: 4,1118,244,242
+  offsets: 4,8,254,252
+	rotate: 180
+Intro_Front_Hair_06
+  bounds: 2168,348,166,510
+  offsets: 0,0,174,510
+	rotate: 90
+Intro_Front_Hair_07
+  bounds: 16,2740,138,500
+  offsets: 0,0,144,500
+Intro_Front_Hair_08
+  bounds: 2722,532,192,496
+  offsets: 8,4,206,506
+	rotate: 270
+Intro_Front_Hair_09
+  bounds: 2456,408,256,508
+  offsets: 2,4,264,514
+	rotate: 90
+Intro_Front_Hair_10
+  bounds: 2368,986,646,380
+  offsets: 8,6,658,392
+Intro_Front_Hair_11
+  bounds: 3216,2438,216,362
+  offsets: 6,6,222,370
+Intro_Front_Hair_11_1
+  bounds: 1920,3184,98,212
+  offsets: 8,0,112,218
+Intro_Front_Hair_12
+  bounds: 632,816,336,446
+  offsets: 6,6,348,454
+	rotate: 90
+Intro_Front_Hair_12_1
+  bounds: 944,186,174,250
+  offsets: 6,4,196,256
+	rotate: 90
+Intro_Head
+  bounds: 3360,2230,608,732
+	rotate: 90
+Intro_Neck
+  bounds: 482,378,292,316
+  offsets: 2,2,294,318
+Intro_Side_Back_Hair_R_01
+  bounds: 1006,900,316,606
+  offsets: 4,4,320,610
+	rotate: 90
+Intro_Side_Hair_L_01
+  bounds: 3858,530,234,454
+  offsets: 6,8,244,468
+	rotate: 180
+Intro_Side_Hair_L_01_A
+  bounds: 3698,62,94,284
+  offsets: 6,6,100,290
+Intro_Side_Hair_L_01_B
+  bounds: 2242,1312,72,232
+  offsets: 0,2,78,234
+Intro_Side_Hair_R_01
+  bounds: 312,334,192,284
+  offsets: 6,8,208,298
+Intro_Side_Hair_R_01_1
+  bounds: 356,3726,56,230
+  offsets: 8,6,70,244
+	rotate: 180
+Intro_Side_Hair_Shadow_01
+  bounds: 318,3712,60,244
+  offsets: 4,2,70,250
+Intro_Side_Hair_Shadow_02
+  bounds: 2690,1962,184,390
+  offsets: 2,4,192,396
+	rotate: 90
+Intro_Side_Hair_Shadow_03
+  bounds: 228,3692,62,264
+  offsets: 6,4,74,274
+Intro_Side_Hair_Shadow_04
+  bounds: 412,3748,42,208
+  offsets: 8,204,572,414
+	rotate: 180
+Intro_Side_Hair_Tail_01_L
+  bounds: 3154,542,242,756
+	rotate: 90
+Intro_Side_Hair_Tail_L_Shadow
+  bounds: 1120,2102,118,354
+  offsets: 2,4,124,362
+	rotate: 90
+Intro_Side_Mouth_01
+  bounds: 512,3894,74,62
+  offsets: 8,8,88,78
+Intro_Side_Mouth_02
+  bounds: 3812,1660,110,138
+  offsets: 6,6,122,152
+Intro_T_Eyebrow_01
+  bounds: 4,1850,172,140
+  offsets: 0,2,176,146
+Intro_T_Eyebrow_02
+  bounds: 2726,3694,142,158
+  offsets: 2,0,148,162
+Intro_T_Eyebrow_03
+  bounds: 4,730,114,184
+  offsets: 6,2,124,192
+LowArm_L
+  bounds: 2834,3178,778,822
+  offsets: 2,0,780,822
+	rotate: 90
+LowArm_R
+  bounds: 4,1678,570,744
+  offsets: 4,4,578,750
+	rotate: 90
+Nose
+  bounds: 2210,3764,60,66
+  offsets: 8,6,74,80
+Pillow
+  bounds: 3110,1802,982,328
+  offsets: 2,4,986,334
+	rotate: 180
+Red_Light
+  bounds: 1428,2222,1734,784
+  offsets: 0,2,1738,816
+	rotate: 270
+Snack_01
+  bounds: 1200,560,372,294
+  offsets: 4,2,406,298
+	rotate: 180
+Snack_02
+  bounds: 3642,3484,246,150
+  offsets: 2,2,250,156
+UpperArm_L
+  bounds: 1922,2384,834,756
+  offsets: 2,0,838,756
+UpperArm_R
+  bounds: 2242,1254,558,632
+  offsets: 2,0,560,632
+	rotate: 180
+
+CH0235_home_2.png
+  size: 4096,2048
+	filter: Linear, Linear
+	scale: 0.5
+BG/Bag
+  bounds: 2170,4,548,934
+  offsets: 24,4,572,938
+	rotate: 90
+BG/Bag_Shadow
+  bounds: 734,370,648,1482
+  offsets: 4,4,656,1492
+	rotate: 90
+BG/Blanket_1
+  bounds: 3612,1036,218,290
+  offsets: 6,2,228,292
+BG/Floor
+  bounds: 4,1020,1390,306
+BG/Halo_01
+  bounds: 1398,1152,818,174
+BG/Halo_02
+  bounds: 3818,1090,274,192
+  offsets: 2,2,276,196
+BG/Lamp
+  bounds: 990,50,606,768
+	rotate: 270
+BG/Table
+  bounds: 3318,272,640,774
+  offsets: 0,10,644,784
+	rotate: 270
+BG/Table_Shadow
+  bounds: 4,88,618,992
+  offsets: 4,4,626,1000
+	rotate: 90
+BG/Wall
+  bounds: 2218,554,1390,772
+  offsets: 0,262,1390,1034
+
+CH0235_home_3.png
+  size: 4096,4096
+	filter: Linear, Linear
+	scale: 0.5
+Intro/Game_Over
+  bounds: 4,3548,602,98
+Intro/Intro_Ammo_Gage
+  bounds: 610,3550,20,96
+  offsets: 8,8,36,112
+Intro/Intro_Dmb
+  bounds: 4,1454,1582,1062
+Intro/Intro_Screen
+  bounds: 2146,446,852,488
+  offsets: 4,4,860,496
+	rotate: 180
+Intro/Intro_bg
+  bounds: 1396,936,1042,776
+Intro/Intro_button_cover
+  bounds: 928,1238,466,342
+  offsets: 4,64,560,406
+	rotate: 180
+Intro/Intro_explosion
+  bounds: 3306,1464,572,622
+Intro/Intro_game_bg
+  bounds: 2312,1714,1932,992
+  offsets: 2,0,1934,992
+	rotate: 90
+Intro/Intro_gun
+  bounds: 1786,1776,704,524
+  offsets: 0,6,704,530
+	rotate: 90
+Intro/Intro_gun fire
+  bounds: 2544,118,452,326
+Intro/Intro_gunshot spark_01
+  bounds: 718,38,298,308
+Intro/Intro_gunshot_01
+  bounds: 3000,272,442,456
+	rotate: 90
+Intro/Intro_left_hand_01
+  bounds: 3414,552,828,678
+  offsets: 0,0,828,682
+	rotate: 90
+Intro/Intro_left_hand_01_a
+  bounds: 874,152,614,560
+	rotate: 270
+Intro/Intro_left_hand_01_b
+  bounds: 1436,144,470,318
+  offsets: 4,4,474,322
+Intro/Intro_left_hand_B
+  bounds: 1442,412,680,520
+  offsets: 2,0,682,520
+Intro/Intro_monster_a_01
+  bounds: 4,4,514,712
+	rotate: 270
+Intro/Intro_monster_b_01_body
+  bounds: 3460,248,394,390
+Intro/Intro_monster_b_01_haed
+  bounds: 3858,3464,172,182
+Intro/Intro_right_button_01
+  bounds: 1612,3446,312,200
+  offsets: 8,6,326,212
+Intro/Intro_right_button_02
+  bounds: 1882,3446,326,200
+  offsets: 0,6,326,212
+Intro/Intro_right_hand_01
+  bounds: 4,2868,394,676
+  offsets: 10,8,404,684
+Intro/Intro_right_hand_01_a
+  bounds: 2096,86,446,358
+Intro/Intro_right_hand_B
+  bounds: 2442,716,996,1054
+	rotate: 270
+Intro/Intro_scrren_light_b
+  bounds: 184,2234,2126,1412
+  offsets: 10,14,2156,1436
+	rotate: 180
+Intro/Intro_ui_01
+  bounds: 3306,2870,776,548
+	rotate: 90
+Intro/Intro_ui_01_HP
+  bounds: 984,3600,80,46
+Intro/Intro_ui_02
+  bounds: 3306,2090,776,522
+	rotate: 90
+Intro/scar
+  bounds: 874,654,564,528
+Intro/screen light_a
+  bounds: 4,1020,868,496
+  offsets: 188,246,1244,1022
+Intro/screen line
+  bounds: 4,522,870,496
+  offsets: 186,246,1244,1022

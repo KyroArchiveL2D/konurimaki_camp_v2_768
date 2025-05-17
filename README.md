@@ -1,1 +1,0 @@
-# konurimaki_camp_v2_768
